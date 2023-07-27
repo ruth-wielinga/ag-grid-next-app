@@ -33,6 +33,7 @@ const Home = () => {
     { field: 'office' },
     { field: 'email' },
     { field: 'phone' },
+    { field: 'test' },
   ]);
 
   return (
